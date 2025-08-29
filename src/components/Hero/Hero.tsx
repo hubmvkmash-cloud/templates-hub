@@ -9,7 +9,7 @@ const Hero = () => {
               <div className="relative">
                 <div className="w-full pt-[70.04048582995948%] pointer-events-none text-[0]" />
                 <video
-                  className="absolute inset-0 w-full h-full object-cover object-center rounded"
+                  className="absolute top-0 left-0 z-[-1] w-full h-full object-cover"
                   poster="https://cdn.builder.io/api/v1/image/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2Fd3c5231fe73a4327aa058cc3507b8b7c"
                   autoPlay
                   muted
