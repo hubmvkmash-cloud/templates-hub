@@ -46,6 +46,24 @@ const Hero = () => {
               href="#provides"
               className="lg:inline-flex ml-auto lg:ml-0 4xl:text-[20px]/[1]"
             />
+            <div className="flex flex-col relative mt-5 w-full min-h-[20px] min-w-[20px]">
+              <div className="relative">
+                <div className="w-full pt-[70.04048582995948%] pointer-events-none text-[0]" />
+                <video
+                  className="absolute inset-0 w-full h-full object-cover object-center rounded"
+                  poster="https://cdn.builder.io/api/v1/image/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2Fd3c5231fe73a4327aa058cc3507b8b7c"
+                  autoPlay
+                  muted
+                  playsInline
+                  loop
+                >
+                  <source
+                    type="video/mp4"
+                    src="https://cdn.builder.io/o/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2F40b5eefcf3da4fda9afa0d6a2da75cfe%2Fcompressed?apiKey=72ae2a4d99034a3aa7809f652e4e761b&token=40b5eefcf3da4fda9afa0d6a2da75cfe&alt=media&optimized=true"
+                  />
+                </video>
+              </div>
+            </div>
           </div>
         </div>
       </div>
