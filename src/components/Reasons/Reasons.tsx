@@ -17,7 +17,7 @@ const Reasons = () => {
                 ВАЖЛИВЕ ПОМАРАНЧЕВИМ
               </p>
               <p className="text-xl/[110%] text-boulder-dust 3xl:max-w-[520px]">
-                текст текст текст текст текст текст текст текст текст текст
+                текст текст текст текс�� текст текст текст текст текст текст
                 текст текст текст текст текст текст текст текст текст текст
                 текст текст текст текст текст текст текст текст текст текст
                 текст текст текст текст текст текст текст текст текст текст
@@ -35,7 +35,7 @@ const Reasons = () => {
               </p>
               <p className="text-xl/[110%] text-boulder-dust 3xl:max-w-[520px]">
                 текст текст текст текст текст текст текст текст текст текст
-                текст текст текст текст текст текст текст текст текст текст
+                текст текст текст т��кст текст текст текст текст текст текст
                 текст текст текст текст текст текст текст текст текст текст
                 текст текст текст текст текст текст текст текст текст текст
                 текст текст текст текст
@@ -64,7 +64,7 @@ const Reasons = () => {
         <div className="lg:max-w-105 lg:ml-auto lg:-mt-80 1xl:mt-0 1xl:max:w-[520px] 1xl:pt-12.5 1xl:w-[440px] 3xl:pt-3 3xl:w-[460px] 4xl:pl-[94px] 4xl:pt-0 4xl:w-[648px] 4xl:items-start shrink-0">
           <img
             alt="Smart Locker HUB"
-            src="/images/smart-locker.webp"
+            src="https://cdn.builder.io/api/v1/image/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2F7c42edc3a6c84cde9bae22a548a5997b?format=webp"
             className="w-full object-cover"
             loading="lazy"
           />
