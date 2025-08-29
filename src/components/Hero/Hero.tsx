@@ -11,14 +11,12 @@ const Hero = () => {
           className="relative -mt-17 1xl:-mt-10.5 3xl:-mt-18 4xl:-mt-17 w-full h-screen overflow-hidden bg-[linear-gradient(to_top,_#080808_0%,_#080808_5%,_rgba(8,8,8,0.5)_100%)]"
           style={{
             backgroundImage:
-              "url(https://cdn.builder.io/o/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2F7f7cea3382cc4c2e8b7b35cc81cf3de5?alt=media&token=709b6b3b-1846-45e7-88db-17353e7cc803&apiKey=72ae2a4d99034a3aa7809f652e4e761b)",
+              'url(https://cdn.builder.io/o/assets%2F72ae2a4d99034a3aa7809f652e4e761b%2F7f7cea3382cc4c2e8b7b35cc81cf3de5?alt=media&token=709b6b3b-1846-45e7-88db-17353e7cc803&apiKey=72ae2a4d99034a3aa7809f652e4e761b)',
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
             backgroundSize: 'cover',
           }}
         >
-          
-
           {/* Контент поверх відео */}
 
           <div className="section flex flex-col justify-around lg:justify-center lg:items-center h-full">
